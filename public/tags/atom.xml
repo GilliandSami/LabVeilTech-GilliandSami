@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sami Universe</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Sami Universe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biology</title>
+      <link>//localhost:1313/tags/biology/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/biology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brand Promise</title>
+      <link>//localhost:1313/tags/brand-promise/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/brand-promise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Branding</title>
+      <link>//localhost:1313/tags/branding/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/branding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consumer Behavior</title>
+      <link>//localhost:1313/tags/consumer-behavior/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/consumer-behavior/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>//localhost:1313/tags/design/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outils</title>
+      <link>//localhost:1313/tags/outils/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/outils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>//localhost:1313/tags/psychology/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strategy</title>
+      <link>//localhost:1313/tags/strategy/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typography</title>
+      <link>//localhost:1313/tags/typography/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/typography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veille</title>
+      <link>//localhost:1313/tags/veille/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/veille/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bruce Willis</title>
+      <link>//localhost:1313/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
