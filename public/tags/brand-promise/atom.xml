@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brand Promise on Sami Universe</title>
-    <link>//localhost:1313/tags/brand-promise/</link>
+    <link>http://localhost:1313/LabVeilTech-GilliandSami/tags/brand-promise/</link>
     <description>Recent content in Brand Promise on Sami Universe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/brand-promise/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LabVeilTech-GilliandSami/tags/brand-promise/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brand Promise - The Branding Journal - Tenir sa promesse</title>
-      <link>//localhost:1313/posts/article3-brand-promise/</link>
+      <link>http://localhost:1313/LabVeilTech-GilliandSami/posts/article3-brand-promise/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/article3-brand-promise/</guid>
+      <guid>http://localhost:1313/LabVeilTech-GilliandSami/posts/article3-brand-promise/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lien de l’article :&lt;/strong&gt; &lt;a href=&#34;https://www.thebrandingjournal.com/2024/10/brand-promise/&#34;&gt;Brand Promise: What It Means and Why It’s Crucial for Your Business&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h2&gt;&#xA;&lt;h3 id=&#34;définition-de-la-promesse-de-marque&#34;&gt;Définition de la promesse de marque&lt;/h3&gt;&#xA;&lt;p&gt;La &lt;strong&gt;promesse de marque&lt;/strong&gt; définit ce que les consommateurs peuvent toujours attendre d&amp;rsquo;une marque. C’est un contrat invisible entre la marque et son audience, garantissant la valeur et l&amp;rsquo;expérience que la marque s&amp;rsquo;engage à offrir. Que ce soit explicitement ou implicitement, cette promesse doit être présente dans chaque action et chaque aspect de la marque.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://gilliandsami.github.io/LabVeilTech-GilliandSami/'
 languageCode = 'en-us'
 title = 'Sami Universe'
 paginate = 3

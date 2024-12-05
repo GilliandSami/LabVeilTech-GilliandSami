@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consumer Behavior on Sami Universe</title>
-    <link>//localhost:1313/tags/consumer-behavior/</link>
+    <link>http://localhost:1313/LabVeilTech-GilliandSami/tags/consumer-behavior/</link>
     <description>Recent content in Consumer Behavior on Sami Universe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/consumer-behavior/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LabVeilTech-GilliandSami/tags/consumer-behavior/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intersection entre la Biologie &amp; le Branding - How Brands Are Built</title>
-      <link>//localhost:1313/posts/article4-branding-biology/</link>
+      <link>http://localhost:1313/LabVeilTech-GilliandSami/posts/article4-branding-biology/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/article4-branding-biology/</guid>
+      <guid>http://localhost:1313/LabVeilTech-GilliandSami/posts/article4-branding-biology/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lien de l’article :&lt;/strong&gt; &lt;a href=&#34;https://howbrandsarebuilt.com/branding-psychology-and-biology/&#34;&gt;The intersection of branding, psychology and biology: Driving long-term conversion rates&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h2&gt;&#xA;&lt;h3 id=&#34;linfluence-du-branding-sur-le-cerveau-humain&#34;&gt;L&amp;rsquo;influence du branding sur le cerveau humain&lt;/h3&gt;&#xA;&lt;p&gt;L&amp;rsquo;article explore comment les marques influencent la &lt;strong&gt;perception des consommateurs&lt;/strong&gt; en mobilisant des principes de psychologie et de biologie. Aujourd’hui, le succès des marques repose sur leur capacité à établir des liens durables avec les consommateurs en exploitant des mécanismes émotionnels et biologiques, favorisant ainsi un engagement et des taux de conversion à long terme.&lt;/p&gt;</description>
     </item>
   </channel>

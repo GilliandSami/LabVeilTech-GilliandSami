@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typography on Sami Universe</title>
-    <link>//localhost:1313/tags/typography/</link>
+    <link>http://localhost:1313/LabVeilTech-GilliandSami/tags/typography/</link>
     <description>Recent content in Typography on Sami Universe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/typography/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LabVeilTech-GilliandSami/tags/typography/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Felfel - Eyeondesign - Une police arabophone</title>
-      <link>//localhost:1313/posts/article1-felfel-typo/</link>
+      <link>http://localhost:1313/LabVeilTech-GilliandSami/posts/article1-felfel-typo/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/article1-felfel-typo/</guid>
+      <guid>http://localhost:1313/LabVeilTech-GilliandSami/posts/article1-felfel-typo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lien de l’article :&lt;/strong&gt; &lt;a href=&#34;https://eyeondesign.aiga.org/a-font-inspired-by-egyptian-streets-that-addresses-a-big-problem-for-arabic-designers/&#34;&gt;Felfel, une police inspirée par les rues égyptiennes pour répondre aux besoins des designers arabophones&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Felfel&lt;/strong&gt;, une police inspirée par les rues égyptiennes, a été conçue pour répondre aux besoins des designers arabophones. Cette typographie unique puise son style dans la &lt;strong&gt;calligraphie Ruq’ah&lt;/strong&gt;, un type d&amp;rsquo;écriture souvent visible sur les murs et pancartes du Caire, et a été développée par &lt;strong&gt;Abdo Mohamed&lt;/strong&gt;, fondateur de la fonderie Boharat Cairo.&lt;/p&gt;</description>
     </item>
   </channel>

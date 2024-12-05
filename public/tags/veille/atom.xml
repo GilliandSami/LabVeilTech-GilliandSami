@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veille on Sami Universe</title>
-    <link>//localhost:1313/tags/veille/</link>
+    <link>http://localhost:1313/LabVeilTech-GilliandSami/tags/veille/</link>
     <description>Recent content in Veille on Sami Universe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/veille/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LabVeilTech-GilliandSami/tags/veille/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon système d&#39;écoute - Mise en place &amp; Solutions</title>
-      <link>//localhost:1313/posts/article5-systeme-ecoute/</link>
+      <link>http://localhost:1313/LabVeilTech-GilliandSami/posts/article5-systeme-ecoute/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/article5-systeme-ecoute/</guid>
+      <guid>http://localhost:1313/LabVeilTech-GilliandSami/posts/article5-systeme-ecoute/</guid>
       <description>&lt;h3 id=&#34;dans-un-domaine-en-perpétuelle-évolution-comme-le-design-graphique-maintenir-une-veille-technologique-et-créative-est-essentiel-pour-rester-à-la-pointe-des-tendances-des-outils-et-des-pratiques&#34;&gt;Dans un domaine en perpétuelle évolution comme le design graphique, maintenir une veille technologique et créative est essentiel pour rester à la pointe des tendances, des outils et des pratiques.&lt;/h3&gt;&#xA;&lt;p&gt;Un système d&amp;rsquo;écoute bien structuré me permet de suivre les avancées, d&amp;rsquo;enrichir mes compétences et de proposer des solutions innovantes à mes clients. Voici comment j’ai mis en place un système de veille simple, organisé et centralisé pour couvrir l’ensemble des aspects de mon domaine professionnel.&lt;/p&gt;</description>
     </item>
   </channel>
